@@ -1,6 +1,6 @@
 import "bootstrap/dist/css/bootstrap.min.css"
 import './App.css'
-import Frame from './Asset/Frame.png'
+import {Frame} from './Asset/Frame.png'
 // import {BrowserRouter,Route,Routes} from 'react-router-dom'
 function App() {
   return (
